@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Elena2022Kharkiv/product-with-context.git/static/css/main.7e072be5.css",
+    "main.js": "/Elena2022Kharkiv/product-with-context.git/static/js/main.33207f47.js",
+    "index.html": "/Elena2022Kharkiv/product-with-context.git/index.html",
+    "main.7e072be5.css.map": "/Elena2022Kharkiv/product-with-context.git/static/css/main.7e072be5.css.map",
+    "main.33207f47.js.map": "/Elena2022Kharkiv/product-with-context.git/static/js/main.33207f47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e072be5.css",
+    "static/js/main.33207f47.js"
+  ]
+}
